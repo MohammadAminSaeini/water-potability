@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+jupyter
+ipykernel
+geopy
+python-dotenv
+chardet
+missingno
+ydata_profiling
+sweetviz
+mitosheet
