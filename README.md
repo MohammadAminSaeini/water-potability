@@ -39,3 +39,6 @@ The dataset (`src/water_potability.csv`) contains 3,276 entries and includes the
 1. Clone this repository to your local machine.
 2. Ensure you have the dataset located at `src/water_potability.csv` relative to the notebook.
 3. Run the Jupyter Notebook (`water_potability.ipynb`) sequentially to view the data inspection, the custom KNN imputation process, and the final visualizations.
+
+**Kaggle** : [https://www.kaggle.com/code/mohammadaminsaeini/water-potability](https://www.kaggle.com/code/mohammadaminsaeini/water-potability)
+**Linkedin**: [https://www.linkedin.com/in/mohammad-amin-saeini](https://www.linkedin.com/in/mohammad-amin-saeini)
